@@ -1,0 +1,50 @@
+.navbar-link {
+    padding: 10px 10px;
+}
+
+.navbar-link:hover {
+    background-color: #eeeeee;
+}
+
+.post-interaction{
+    font-size: 1.4rem;
+}
+
+.img-feed{
+    width: 100%;
+    height: 450px !important;
+    object-fit: cover;
+    object-position: center;
+}
+
+.post-image{
+    width: 100%;
+    height: 100% !important;
+    object-fit: cover;
+    object-position: center;
+}
+
+.post-detail{
+    width: 100%;
+    height: 80vh;
+}
+
+.img-user{
+    width: 30px !important;
+    height: 30px !important;
+    object-fit: cover;
+}
+
+.img-profile{
+    width: 120px !important;
+    height: 120px !important;
+    object-fit: cover;
+}
+
+.img-content{
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    margin: 0;
+}
