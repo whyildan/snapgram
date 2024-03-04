@@ -29,7 +29,7 @@
                             </div>
                             <div class="mb-2">
                                 <label class="form-label" for="gambar">Gambar</label>
-                                <input class="form-control" type="file" name="gambar" id="gambar" required>
+                                <input class="form-control" type="file" name="gambar" accept="accept="image/png, image/jpeg"" id="gambar" required>
                             </div>
                             <div class="mt-4 text-end">
                                 <button class="btn btn-primary" type="submit">Bagikan</button>
